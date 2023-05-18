@@ -10,5 +10,12 @@
     "date"
   ],
   "author": "Shanover",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shanover77/panda-ate.git"
+  }  
 }
