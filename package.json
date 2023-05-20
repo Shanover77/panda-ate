@@ -1,6 +1,6 @@
 {
   "name": "panda-ate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A date util package",
   "main": "index.js",
   "scripts": {
